@@ -1,5 +1,5 @@
 <h1>Overview</h1>
-<p>This mod is a part of <a>KH2-pro-codes</a> you can use it alone but if you want the full pro codes experience please visit <a>this page</a></p>
+<p>This mod is a part of <a href="https://github.com/LMR-C/KH2-pro-codes">KH2-pro-codes</a> mod. You can use it alone but if you want the full pro codes experience please visit <a href="https://github.com/LMR-C/KH2-pro-codes">this page</a></p>
 
 <h1>Installation</h1>
 <p>To be able to toggle every pro code this mod come in 3 parts. Open your openKH mod manager and go to <code>Mods > Install a new mod</code>
