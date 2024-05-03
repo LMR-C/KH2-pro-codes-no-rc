@@ -1,0 +1,350 @@
+title: No reaction command
+originalAuthor: LMR
+game: Kh2
+description: no reaction command pro code for KH2 pro codes
+logo: icon.png
+assets:
+  - name: obj/M_EX780.mdlx
+    method: copy
+    source:
+      - name: rc/aerial_knocker_M_EX780.mdlx
+  - name: obj/M_EX780_HB.mdlx
+    method: copy
+    source:
+      - name: rc/aerial_knocker_M_EX780_HB.mdlx
+  - name: obj/M_EX210.mdlx
+    method: copy
+    source:
+      - name: rc/air_pirate_M_EX210.mdlx
+  - name: obj/M_EX210_HB.mdlx
+    method: copy
+    source:
+      - name: rc/air_pirate_air_pirate_M_EX210.mdlx_HB.mdlx
+  - name: obj/M_EX760.mdlx
+    method: copy
+    source:
+      - name: rc/armored_knight_M_EX760.mdlx
+  - name: obj/M_EX760_NM.mdlx
+    method: copy
+    source:
+      - name: rc/armored_knightM_EX760_NM.mdlx
+  - name: obj/M_EX760_NM_RAW.mdlx
+    method: copy
+    source:
+      - name: rc/armored_knight_M_EX760_NM_RAW.mdlx
+  - name: obj/M_EX760_RAW.mdlx
+    method: copy
+    source:
+      - name: rc/armored_knight_M_EX760_RAW.mdlx
+  - name: obj/M_EX900.mdlx
+    method: copy
+    source:
+      - name: rc/assassin_M_EX900.mdlx
+  - name: obj/B_CA010.mdlx
+    method: copy
+    source:
+      - name: rc/barbossa_B_CA010.mdlx
+  - name: obj/B_CA010_HUM_NPC.mdlx
+    method: copy
+    source:
+      - name: rc/barbossa_B_CA010_HUM_NPC.mdlx
+  - name: obj/B_CA010_SKL_NPC.mdlx
+    method: copy
+    source:
+      - name: rc/barbossa_B_CA010_SKL_NPC.mdlx
+  - name: obj/M_EX850.mdlx
+    method: copy
+    source:
+      - name: rc/bersrker_claymore_M_EX850.mdlx
+  - name: obj/B_AL100_1ST.mdlx
+    method: copy
+    source:
+      - name: rc/volcano_lord_B_AL100_1ST.mdlx
+  - name: obj/B_AL100_FIRE.mdlx
+    method: copy
+    source:
+      - name: rc/volcano_lord_B_AL100_FIRE.mdlx
+  - name: obj/B_AL100_2ND.mdlx
+    method: copy
+    source:
+      - name: rc/blizzard_lord_B_AL100_2ND.mdlx
+  - name: obj/B_AL100_ICE.mdlx
+    method: copy
+    source:
+      - name: rc/blizzard_lord_B_AL100_ICE.mdlx
+  - name: obj/M_EX740.mdlx
+    method: copy
+    source:
+      - name: rc/crecsendo_M_EX740.mdlx
+  - name: obj/B_BB110.mdlx
+    method: copy
+    source:
+      - name: rc/dark_thorn_B_BB110.mdlx
+  - name: obj/B_MU120.mdlx
+    method: copy
+    source:
+      - name: rc/dragon_mulan_B_MU120.mdlx
+  - name: obj/M_EX890.mdlx
+    method: copy
+    source:
+      - name: rc/dragoon_M_EX890.mdlx
+  - name: obj/M_EX990.mdlx
+    method: copy
+    source:
+      - name: rc/dusk_M_EX990.mdlx
+  - name: obj/M_EX060.mdlx
+    method: copy
+    source:
+      - name: rc/fat_bandit_M_EX060.mdlx
+  - name: obj/M_EX950.mdlx
+    method: copy
+    source:
+      - name: rc/gambler_M_EX950.mdlx
+  - name: obj/M_BB010_SWORD.mdlx
+    method: copy
+    source:
+      - name: rc/gargoyle_knight_M_BB010_SWORD.mdlx
+  - name: obj/M_BB010_AX.mdlx
+    method: copy
+    source:
+      - name: rc/gargoyle_warrior_M_BB010_AX.mdlx
+  - name: obj/B_AL020.mdlx
+    method: copy
+    source:
+      - name: rc/genie_jafar_B_AL020.mdlx
+  - name: obj/B_AL020.mdlx
+    method: copy
+    source:
+      - name: rc/genie_jafar_B_AL020.mdlx
+  - name: obj/M_EX520_AL.mdlx
+    method: copy
+    source:
+      - name: rc/hook_bat_M_EX520_AL.mdlx
+  - name: obj/M_EX520_HB.mdlx
+    method: copy
+    source:
+      - name: rc/hook_bat_M_EX520_HB.mdlx
+  - name: obj/M_EX690.mdlx
+    method: copy
+    source:
+      - name: rc/lance_soldier_M_EX690.mdlx
+  - name: obj/M_EX690_HB.mdlx
+    method: copy
+    source:
+      - name: rc/lance_soldier_M_EX690_hb.mdlx
+  - name: obj/M_EX050.mdlx
+    method: copy
+    source:
+      - name: rc/large_body_M_EX050.mdlx
+  - name: obj/M_EX050_WI.mdlx
+    method: copy
+    source:
+      - name: rc/large_body_M_EX050_WI.mdlx
+  - name: obj/B_EX210.mdlx
+    method: copy
+    source:
+      - name: rc/luxord_card_B_EX210.mdlx
+  - name: obj/B_EX210_EH.mdlx
+    method: copy
+    source:
+      - name: rc/luxord_card_B_EX210_EH.mdlx
+  - name: obj/M_EX600.mdlx
+    method: copy
+    source:
+      - name: rc/magnum_loader_M_EX600.mdlx
+  - name: obj/M_EX550.mdlx
+    method: copy
+    source:
+      - name: rc/minute_bomb_M_EX550.mdlx
+  - name: obj/M_EX550_WI.mdlx
+    method: copy
+    source:
+      - name: rc/minute_bomb_M_EX550_WI.mdlx
+  - name: obj/M_EX520.mdlx
+    method: copy
+    source:
+      - name: rc/hook_bat_M_EX520.mdlx
+  - name: obj/M_EX710.mdlx
+    method: copy
+    source:
+      - name: rc/morning_star_M_EX710.mdlx
+  - name: obj/M_EX420.mdlx
+    method: copy
+    source:
+      - name: rc/neoshadow_M_EX420.mdlx
+  - name: obj/M_EX420_NM.mdlx
+    method: copy
+    source:
+      - name: rc/neoshadow_M_EX420_NM.mdlx
+  - name: obj/B_CA020.mdlx
+    method: copy
+    source:
+      - name: rc/pirate_B_CA020.mdlx
+  - name: obj/B_CA020_HUM_OKA.mdlx
+    method: copy
+    source:
+      - name: rc/pirate20_B_CA020_HUM_OKA.mdlx
+  - name: obj/B_CA020_SKL_OKA.mdlx
+    method: copy
+    source:
+      - name: rc/pirate20_B_CA020_SKL_OKA.mdlx
+  - name: obj/B_CA040.mdlx
+    method: copy
+    source:
+      - name: rc/pirate_B_CA040.mdlx
+  - name: obj/B_CA040_HUM_OKA.mdlx
+    method: copy
+    source:
+      - name: rc/pirate_B_CA040_HUM_OKA.mdlx
+  - name: obj/B_CA040_PUB.mdlx
+    method: copy
+    source:
+      - name: rc/pirate40_B_CA040_PUB.mdlx
+  - name: obj/B_CA040_SKL_OKA.mdlx
+    method: copy
+    source:
+      - name: rc/pirate_B_CA040_SKL_OKA.mdlx
+  - name: obj/M_EX660.mdlx
+    method: copy
+    source:
+      - name: rc/rapid_thruster_M_EX660.mdlx
+  - name: obj/M_EX660_AL.mdlx
+    method: copy
+    source:
+      - name: rc/rapid_thruster_M_EX660_AL.mdlx
+  - name: obj/M_EX660_RAW.mdlx
+    method: copy
+    source:
+      - name: rc/rapid_thruster_M_EX660_RAW.mdlx
+  - name: obj/M_EX660_WI.mdlx
+    method: copy
+    source:
+      - name: rc/rapid_thruster_M_EX660_WI.mdlx
+  - name: obj/M_EX910.mdlx
+    method: copy
+    source:
+      - name: rc/samurai_M_EX910.mdlx
+  - name: obj/M_EX110.mdlx
+    method: copy
+    source:
+      - name: rc/silver_rock_M_EX110.mdlx
+  - name: obj/M_EX010.mdlx
+    method: copy
+    source:
+      - name: rc/soldier_M_EX010.mdlx
+  - name: obj/M_EX010_NM.mdlx
+    method: copy
+    source:
+      - name: rc/soldier_M_EX010_NM.mdlx
+  - name: obj/M_EX010_TR.mdlx
+    method: copy
+    source:
+      - name: rc/soldier_M_EX010_TR.mdlx
+  - name: obj/M_EX010_WI.mdlx
+    method: copy
+    source:
+      - name: rc/soldier_M_EX010_WI.mdlx
+  - name: obj/M_EX770.mdlx
+    method: copy
+    source:
+      - name: rc/surveillance_robot_M_EX770.mdlx
+  - name: obj/M_EX770_RAW.mdlx
+    method: copy
+    source:
+      - name: rc/surveillance_robot_M_EX770_RAW.mdlx
+  - name: obj/M_EX770_TR.mdlx
+    method: copy
+    source:
+      - name: rc/surveillance_robot_M_EX770_TR.mdlx
+  - name: obj/M_EX770_TR_RAW.mdlx
+    method: copy
+    source:
+      - name: rc/surveillance_robot_M_EX770_TR_RAW.mdlx
+  - name: obj/M_EX730.mdlx
+    method: copy
+    source:
+      - name: rc/tornado_step_M_EX730.mdlx
+  - name: obj/B_EX130.mdlx
+    method: copy
+    source:
+      - name: rc/xaldin_ex_B_EX130.mdlx
+  - name: obj/B_EX130_LV99.mdlx
+    method: copy
+    source:
+      - name: rc/xaldin_ex_B_EX130_LV99.mdlx
+  - name: obj/B_EX120.mdlx
+    method: copy
+    source:
+      - name: rc/demyx_B_EX120.mdlx
+  - name: obj/B_EX120_HB.mdlx
+    method: copy
+    source:
+      - name: rc/demyx_B_EX120_HB.mdlx
+  - name: obj/B_EX120_HB.mdlx
+    method: copy
+    source:
+      - name: rc/demyx_B_EX120_HB.mdlx
+  - name: obj/B_EX120_HB_LV99.mdlx
+    method: copy
+    source:
+      - name: rc/demyx_B_EX120_HB_LV99.mdlx
+  - name: obj/B_EX150.mdlx
+    method: copy
+    source:
+      - name: rc/luxord_B_EX150.mdlx
+  - name: obj/B_EX150_LV99.mdlx
+    method: copy
+    source:
+      - name: rc/luxord_B_EX150_LV99.mdlx
+  - name: obj/B_HE020.mdlx
+    method: copy
+    source:
+      - name: rc/cerberus_B_HE020.mdlx
+  - name: obj/B_NM100.mdlx
+    method: copy
+    source:
+      - name: rc/am_stram_gram_B_NM100.mdlx
+  - name: obj/F_WI060.mdlx
+    method: copy
+    source:
+      - name: rc/wi_tower_window_3_F_WI060.mdlx
+  - name: obj/F_WI060_PETE.mdlx
+    method: copy
+    source:
+      - name: rc/wi_tower_window_3_F_WI060_PETE.mdlx
+  - name: obj/F_WI360.mdlx
+    method: copy
+    source:
+      - name: rc/wi_elevator_F_WI360.mdlx
+  - name: obj/F_WI360_PETE.mdlx
+    method: copy
+    source:
+      - name: rc/wi_elevator_F_WI360_PETE.mdlx
+  - name: obj/M_EX670.mdlx
+    method: copy
+    source:
+      - name: rc/living_bone_M_EX670.mdlx
+  - name: obj/N_CM000_BTL.mdlx
+    method: copy
+    source:
+      - name: rc/marluxia_N_CM000_BTL.mdlx
+  - name: obj/B_EX400.mdlx
+    method: copy
+    source:
+      - name: rc/larxene_B_EX400.mdlx
+  - name: obj/us/B_CA040.mdlx
+    method: copy
+    source:
+      - name: rc/us/pirate40_B_CA040.mdlx
+  - name: obj/us/B_CA040_HUM_OKA.mdlx
+    method: copy
+    source:
+      - name: rc/us/pirate40_B_CA040_HUM_OKA.mdlx
+  - name: obj/us/B_CA040_PUB.mdlx
+    method: copy
+    source:
+      - name: rc/us/pirate40_B_CA040_PUB.mdlx
+  - name: obj/us/B_CA040_SKL_OKA.mdlx
+    method: copy
+    source:
+      - name: rc/us/pirate40_B_CA040_SKL_OKA.mdlx
